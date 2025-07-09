@@ -32,12 +32,6 @@ Each servo has three wires:
 - **VCC (Red)** → Connect to 5V (Arduino or external power)
 - **GND (Brown/Black)** → Connect to Arduino GND
 
-### 📷 Connection Diagram
-
-![Servo Wiring](./A_digital_photograph_displays_an_Arduino_Uno_micro.png)
-
-> Make sure all servo GND wires are connected to Arduino GND to ensure proper functioning.
-
 ---
 
 ## 📜 Arduino Code
